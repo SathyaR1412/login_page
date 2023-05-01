@@ -1,0 +1,15 @@
+body{
+    background-image: url('login.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.container1{
+    font-size: x-large;
+    font-style:normal;
+    text-align: center; 
+    width: 400px;
+    margin: auto;
+    padding:0.5%;
+    align-self: center;
+    background-color:rgb(0,0,0,0.5);
+}
